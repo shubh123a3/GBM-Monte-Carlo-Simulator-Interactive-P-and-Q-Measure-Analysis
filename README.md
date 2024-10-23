@@ -2,6 +2,10 @@
 
 ## Overview
 
+
+https://github.com/user-attachments/assets/d5bcd800-a5e1-465e-a594-b1b459cb9788
+
+
 This project provides an interactive Streamlit application for simulating and visualizing Geometric Brownian Motion (GBM) under both the risk-neutral (Q) and real-world (P) measures. It's a powerful tool for understanding and exploring key concepts in financial modeling and option pricing.
 
 ## Features
